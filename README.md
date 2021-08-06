@@ -14,10 +14,10 @@ Particle distribution rotation: In this step all of the particles are rotated ac
 Angular momentum calculation: In the new reference frame, the cumulative angular momentum is calculated in order to identify the rotation axis of the system. 
 
 
-#Author
+# Author
 Branislav Avramov
 
-#Date
+# Date
 January 2020
 
 
